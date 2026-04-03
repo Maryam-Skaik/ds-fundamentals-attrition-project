@@ -119,17 +119,6 @@ Two types of relationships were explored:
 
 ---
 
-## 📷 Example Visualizations
-
-> Add screenshots here from your notebook for better presentation:
-
-- OverTime vs Attrition  
-- JobRole vs Attrition  
-- Satisfaction vs Attrition  
-- Correlation Heatmap  
-
----
-
 ## 🛠️ Tools Used
 
 - Python  
@@ -140,19 +129,12 @@ Two types of relationships were explored:
 
 ---
 
-## 📎 Submission
-
-- ✔️ Colab Notebook (with full code + explanations)  
-- ✔️ This repository (for documentation and presentation)  
-
----
-
 ## 📚 References
 
 - Pandas Documentation  
 - Seaborn Documentation  
 - Crosstab explanation:  
-  https://medium.com/@whyamit404/understanding-pandas-crosstab-with-simple-examples-90cf6ea5a9a1  
+  https://medium.com/@whyamit404/understanding-pandas-crosstab-with-simple-examples-90cf6ea5a9a1
 
 ---
 
