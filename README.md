@@ -1,5 +1,4 @@
-# 🎯 Belt Exam — Employee Attrition Analysis  
-**Axsos Academy | DS Fundamentals (Version A)**  
+# 🎯 Employee Attrition Analysis  
 
 This project presents a full data cleaning and exploratory data analysis (EDA) workflow on an Employee Attrition dataset.  
 The goal is to help HR executives understand the key factors influencing employee turnover.
@@ -135,9 +134,3 @@ Two types of relationships were explored:
 - Seaborn Documentation  
 - Crosstab explanation:  
   https://medium.com/@whyamit404/understanding-pandas-crosstab-with-simple-examples-90cf6ea5a9a1
-
----
-
-## 👩‍💻 Author
-
-Prepared as part of the **Belt Exam — Axsos Academy (DS Fundamentals)**  
